@@ -1,4 +1,6 @@
 ### Hi Ahmed Here 👋
+
+A Passionate Software Engineer
 ![image](https://github.com/ahmedghani676/ahmedghani676/assets/58558139/39ae156d-10fb-4857-b63e-4f032962b1b0)
 
 <!--
@@ -6,12 +8,13 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on C# and JS
+- 🌱 I’m currently learning Nextjs and .netcore
+- 👯 I’m looking to collaborate on open source
+- 🤔 I’m looking for help with a senior techies
+- 💬 Ask me about full stack development
+- 📫 How to reach me: Linkedin , email
+   [ahmed.ghani676@gmail.com
+   ]
+
 -->
