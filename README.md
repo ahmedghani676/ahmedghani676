@@ -6,16 +6,17 @@
 
 - 🔭 I’m currently working on C# and JS
 - 🌱 I’m currently learning Nextjs and .netcore
-- 👯 I’m looking to collaborate on open source
-- 🤔 I’m looking for help with a senior techies
-- 💬 Ask me about full stack development
-- 📫 How to reach me: Linkedin , email
-   [ahmed.ghani676@gmail.com
+- 👯 I’m looking to collaborate on open-source
+- 🤔 I’m looking for help with senior techies
+- 💬 Ask me about full-stack development
+- 📫 How to reach me: Linkedin, email
+   [email: ahmed.ghani676@gmail.com,
+  Linkedin : https://www.linkedin.com/in/ahmed-ghani-962238217 ]
 <!--
 **ahmedghani676/ahmedghani676** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-   ]
+  
 
 -->
