@@ -1,12 +1,8 @@
 ### Hi Ahmed Here 👋
 
-A Passionate Software Engineer
 ![image](https://github.com/ahmedghani676/ahmedghani676/assets/58558139/39ae156d-10fb-4857-b63e-4f032962b1b0)
 
-<!--
-**ahmedghani676/ahmedghani676** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+                                                         A Passionate Software Engineer
 
 - 🔭 I’m currently working on C# and JS
 - 🌱 I’m currently learning Nextjs and .netcore
@@ -15,6 +11,11 @@ Here are some ideas to get you started:
 - 💬 Ask me about full stack development
 - 📫 How to reach me: Linkedin , email
    [ahmed.ghani676@gmail.com
+<!--
+**ahmedghani676/ahmedghani676** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
    ]
 
 -->
