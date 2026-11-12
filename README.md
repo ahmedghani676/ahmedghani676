@@ -6,7 +6,7 @@
                                                          
 I'm a Passionate Software Engineer and problem-solving aficionado. 💻✨ I thrive on crafting elegant solutions, from complex algorithms to user-friendly interfaces. 🎹🎵 Let's connect and navigate the tech landscape together, turning lines of code into a delightful digital world! 🌈🌍🖥️
 
-- 🔭 I’m currently working on C# and JS
+- 🔭 I’m currently working on Java Spring and Python
 - 🌱 I’m currently learning Nextjs and .netcore
 - 👯 I’m looking to collaborate on open-source
 - 🤔 I’m looking for help with senior techies
